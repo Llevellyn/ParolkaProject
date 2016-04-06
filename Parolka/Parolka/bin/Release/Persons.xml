@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Data>
+	<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" id="Persons" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="Data" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element name="Person">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Name" type="xs:string" />
+								<xs:element name="ImageIndex" type="xs:int" />
+								<xs:element name="Company" type="xs:string" />
+								<xs:element name="Occupation" type="xs:string" />
+								<xs:element name="Salary" type="xs:unsignedInt" />
+								<xs:element name="Height1" type="xs:double" />
+								<xs:element name="Width" type="xs:double" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Person>
+		<Name>Nicola Piper</Name>
+		<ImageIndex>0</ImageIndex>
+		<Company>Bright Ideas Software</Company>
+		<Occupation>CFO</Occupation>
+		<Salary>10000</Salary>
+		<Height1>1.7</Height1>
+		<Width>1.7</Width>
+	</Person>
+	<Person>
+		<Name>Joshua Piper</Name>
+		<ImageIndex>0</ImageIndex>
+		<Company>Bright Ideas Software</Company>
+		<Occupation>Games Tester</Occupation>
+		<Salary>15000</Salary>
+		<Height1>1.35</Height1>
+		<Width>1.7</Width>
+	</Person>
+	<Person>
+		<Name>Drew Piper</Name>
+		<ImageIndex>0</ImageIndex>
+		<Company>Bright Ideas Software</Company>
+		<Occupation>Creative Ideas</Occupation>
+		<Height1>1.20</Height1>
+		<Salary>15000</Salary>
+		<Width>1.7</Width>
+	</Person>
+</Data>

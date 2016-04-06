@@ -1,0 +1,11 @@
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\bin\Release\ParolkaServer.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\bin\Release\ParolkaServer.exe
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Release\ParolkaServer.Server.resources
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Release\ParolkaServer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Release\ParolkaServer.exe
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Release\ParolkaServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ParolkaServer\ParolkaServer\bin\Release\ParolkaServer.exe.config
+C:\Users\user\Desktop\ParolkaServer\ParolkaServer\obj\Release\ParolkaServer.exe
+C:\Users\user\Desktop\ParolkaServer\ParolkaServer\bin\Release\ParolkaServer.exe
+C:\Users\user\Desktop\ParolkaServer\ParolkaServer\obj\Release\ParolkaServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ParolkaServer\ParolkaServer\bin\Release\MySql.Data.dll

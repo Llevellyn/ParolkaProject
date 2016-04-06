@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\bin\Debug\ParolkaServer.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Debug\ParolkaServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Debug\ParolkaServer.Server.resources
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Debug\ParolkaServer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\bin\Debug\ParolkaServer.exe
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\bin\Debug\ParolkaServer.pdb
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Debug\ParolkaServer.exe
+C:\Users\user\Documents\SharpDevelop Projects\ParolkaServer\ParolkaServer\obj\Debug\ParolkaServer.pdb

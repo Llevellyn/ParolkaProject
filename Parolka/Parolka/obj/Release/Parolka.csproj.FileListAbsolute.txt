@@ -1,0 +1,46 @@
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\bin\Release\Parolka.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\bin\Release\Parolka.exe
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\bin\Release\ZipForge2003.dll
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.BitrixWorker.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.AddService.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.ServicesManager.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.AddSite.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.Register.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.Login.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.Client.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.AccessMan.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.UserMan.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.Updater.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.WhoisExpired.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.exe
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\BarcodeGenerator.BarcodeForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Inventarize.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\PhotoshopUninstaller.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Parolka\Parolka\obj\Release\Parolka.Billing.resources
+C:\Users\user\Desktop\Parolka\Parolka\bin\Release\Parolka.exe.config
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.exe
+C:\Users\user\Desktop\Parolka\Parolka\bin\Release\Parolka.exe
+C:\Users\user\Desktop\Parolka\Parolka\bin\Release\ZipForge2003.dll
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\PhotoshopUninstaller.MainForm.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Billing.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.BitrixWorker.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.MainForm.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.AddService.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.ServicesManager.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.AddSite.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Register.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Login.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Client.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.AccessMan.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.UserMan.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Updater.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.WhoisExpired.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Properties.Resources.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\PrintBarCode.Print.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Inventarize.AddItem.resources
+C:\Users\user\Desktop\Parolka\Parolka\obj\Release\Parolka.Inventarize.Inventarize.resources

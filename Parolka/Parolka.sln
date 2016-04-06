@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parolka", "Parolka\Parolka.csproj", "{D47229E6-DACF-4937-8BDF-C61855A6B271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Debug|.NET.Build.0 = Debug|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Debug|x86.Build.0 = Debug|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Release|.NET.ActiveCfg = Release|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Release|.NET.Build.0 = Release|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Release|x86.ActiveCfg = Release|Any CPU
+		{D47229E6-DACF-4937-8BDF-C61855A6B271}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{00ACC77D-1901-4C7A-BB8F-8D0F364A58F3}.Debug.ActiveCfg = Debug|.NET
+		{00ACC77D-1901-4C7A-BB8F-8D0F364A58F3}.Debug.Build.0 = Debug|.NET
+		{00ACC77D-1901-4C7A-BB8F-8D0F364A58F3}.Release.ActiveCfg = Release|.NET
+		{00ACC77D-1901-4C7A-BB8F-8D0F364A58F3}.Release.Build.0 = Release|.NET
+		{FE3083EF-C7AC-4784-8832-2B5CCA57D22A}.Debug.ActiveCfg = Debug|.NET
+		{FE3083EF-C7AC-4784-8832-2B5CCA57D22A}.Debug.Build.0 = Debug|.NET
+		{FE3083EF-C7AC-4784-8832-2B5CCA57D22A}.Release.ActiveCfg = Release|.NET
+		{FE3083EF-C7AC-4784-8832-2B5CCA57D22A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
